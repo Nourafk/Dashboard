@@ -4,7 +4,7 @@
 ## هذا الملف يحتوي على لوحة معلومات تم انشائها عن طريق برنامج (datapine) 
 
 صورة للوحة المعلومات:
-![image](https://user-images.githubusercontent.com/70758291/169230938-2cf309ef-0747-4f73-bb06-c544be0f54bc.png)
+![image](https://github.com/Nourafk/Dashboard/blob/main/dashboard.png)
 
 ## الاستنتاجات بعد التحليل:
 1- 
